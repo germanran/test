@@ -8,3 +8,4 @@ sayHello = name => {
 }
 
 module.exports = { sayHi, sayHello };
+//just adding a commet to test something on git
